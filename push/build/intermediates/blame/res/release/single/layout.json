@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\android1\\ToHappy\\push\\build\\intermediates\\res\\merged\\release\\layout\\upush_bar_image_notification.xml",
+        "source": "D:\\android1\\ToHappy\\push\\res\\layout\\upush_bar_image_notification.xml"
+    },
+    {
+        "merged": "D:\\android1\\ToHappy\\push\\build\\intermediates\\res\\merged\\release\\layout\\upush_notification.xml",
+        "source": "D:\\android1\\ToHappy\\push\\res\\layout\\upush_notification.xml"
+    }
+]

@@ -1,5 +1,6 @@
 package com.liu.tohappy.base;
 
+import android.annotation.SuppressLint;
 import android.os.Build;
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
@@ -20,7 +21,7 @@ import com.umeng.analytics.MobclickAgent;
  * @更新描述 ${TODO}
  */
 
-public class BaseActivity extends FragmentActivity {
+public abstract class BaseActivity extends FragmentActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -38,6 +39,8 @@ public class BaseActivity extends FragmentActivity {
     public void setTitle(String title){
         ((TextView)findViewById(R.id.umeng_title)).setText(title);
     }
+
+    @SuppressLint("WrongConstant")
     public void setBackVisibily(){
         findViewById(R.id.umeng_back).setVisibility(View.VISIBLE);
         findViewById(R.id.umeng_back).setOnClickListener(new View.OnClickListener() {

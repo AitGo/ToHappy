@@ -53,9 +53,9 @@ public class App extends Application {
         }
         //初始化组件化基础库, 统计SDK/推送SDK/分享SDK都必须调用此初始化接口
         UMConfigure.init(this, "5bc84955f1f5562fca0000bb", "Umeng", UMConfigure.DEVICE_TYPE_PHONE,
-                "b79e56b7a0261522a4718dae0b31db71");
+                "");
         //PushSDK初始化(如使用推送SDK，必须调用此方法)
-        initUpush();
+//        initUpush();
     }
 
     private void initUpush() {
