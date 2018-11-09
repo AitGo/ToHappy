@@ -2,6 +2,8 @@ package com.liu.tohappy;
 
 import android.app.Activity;
 import android.os.Bundle;
+import android.support.v4.app.Fragment;
+import android.support.v4.app.FragmentActivity;
 import android.support.v4.view.ViewPager;
 import android.view.View;
 
@@ -14,23 +16,31 @@ import com.umeng.commonsdk.UMConfigure;
 import java.util.ArrayList;
 import java.util.List;
 
-public class MainActivity extends Activity {
+public class MainActivity extends FragmentActivity {
+    private MyPagerAdapter adapter;
+    private List<Fragment> fragments = new ArrayList<>();
+    private FragmentA fragmentA;
+    private FragmentB fragmentB;
+    private FragmentC fragmentC;
+    private FragmentD fragmentD;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         ViewPager vpMain = (ViewPager) findViewById(R.id.vpMain);
+        vpMain.setOffscreenPageLimit(4);
+        fragmentA = new FragmentA();
+        fragmentB = new FragmentB();
+        fragmentC = new FragmentC();
+        fragmentD = new FragmentD();
+        fragments.add(fragmentA);
+        fragments.add(fragmentB);
+        fragments.add(fragmentC);
+        fragments.add(fragmentD);
 
-
-            List<String> list = new ArrayList<>();
-            for (int i = 0; i < 3; i++) {
-                list.add("第"+i+"个View");
-            }
-
-
-        vpMain.setAdapter(new MyPagerAdapter(this,list));
-
+        adapter = new MyPagerAdapter(getSupportFragmentManager(),fragments);
+        vpMain.setAdapter(adapter);
 
         vpMain.setPageTransformer(true, CardPageTransformer.getBuild()//建造者模式
                 .addAnimationType(PageTransformerConfig.ROTATION)//默认动画 default animation rotation  旋转  当然 也可以一次性添加两个  后续会增加更多动画

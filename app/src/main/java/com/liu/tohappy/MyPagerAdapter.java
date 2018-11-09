@@ -1,6 +1,9 @@
 package com.liu.tohappy;
 
 import android.content.Context;
+import android.support.v4.app.Fragment;
+import android.support.v4.app.FragmentManager;
+import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v4.view.PagerAdapter;
 import android.view.View;
 import android.view.ViewGroup;
@@ -17,39 +20,27 @@ import java.util.List;
  * @更新描述 ${TODO}
  */
 
-public class MyPagerAdapter extends PagerAdapter {
+public class MyPagerAdapter extends FragmentPagerAdapter {
 
     private Context      mContext;
     private List<String> mData;
 
-    public MyPagerAdapter(Context context ,List<String> list) {
-        mContext = context;
-        mData = list;
+    private List<Fragment> mfragmentList;
+
+    public MyPagerAdapter(FragmentManager fm, List<Fragment> fragmentList) {
+        super(fm);
+        this.mfragmentList = fragmentList;
+    }
+
+    @Override
+    public Fragment getItem(int position) {
+        return mfragmentList.get(position);
     }
 
     @Override
     public int getCount() {
-        return mData.size();
+        return mfragmentList.size();
     }
 
-    @Override
-    public Object instantiateItem(ViewGroup container, int position) {
-        View view = View.inflate(mContext, R.layout.page1,null);
-        TextView tv = (TextView) view.findViewById(R.id.tv);
-        tv.setText(mData.get(position));
-        container.addView(view);
-        return view;
-    }
-
-    @Override
-    public void destroyItem(ViewGroup container, int position, Object object) {
-        // super.destroyItem(container,position,object); 这一句要删除，否则报错
-        container.removeView((View)object);
-    }
-
-    @Override
-    public boolean isViewFromObject(View view, Object object) {
-        return view == object;
-    }
 
 }
