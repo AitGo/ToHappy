@@ -19,7 +19,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name=".activity.MainActivity">
             <meta-data android:value="5bc84955f1f5562fca0000bb" android:name="UMENG_APPKEY"></meta-data>
             <meta-data android:value="wandoujia" android:name="UMENG_CHANNEL"/>
             <intent-filter>

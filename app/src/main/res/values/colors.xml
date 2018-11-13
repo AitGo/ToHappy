@@ -6,4 +6,6 @@
     <color name="titlebg">#202020</color>
     <color name="titletc">#ffffff</color>
     <color name="white">#ffffff</color>
+    <color name="bg_gray">#da5b5959</color>
+    <color name="bg_blue">#4ab6ec</color>
 </resources>

@@ -6,7 +6,7 @@
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://E:/software/android/android-sdk-studio/extras/android/m2repository/com/android/support/support-compat/25.3.1/support-compat-25.3.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-compat/25.3.1/8b1eabbc900b9d9e9d91b74227cad226525992bd/support-compat-25.3.1-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

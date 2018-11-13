@@ -6,7 +6,7 @@
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://E:/software/android/android-sdk-studio/extras/android/m2repository/com/android/support/support-core-ui/25.3.1/support-core-ui-25.3.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.support/support-core-ui/25.3.1/6d98435ae74fad3980fe9b2edf8a72a258ba69a8/support-core-ui-25.3.1-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
