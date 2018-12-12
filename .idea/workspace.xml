@@ -11,164 +11,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6491cb3-27f6-4e2e-afe1-7762cca86ac4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/back.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/BaseRecyclerViewAdapterHelper_2_9_30.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_25_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/activity/SumActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/adapter/SumListAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/entity/SumEntity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_sum.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_sum.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/FragmentA.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/FragmentB.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/FragmentC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/FragmentD.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/MainActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/MyPagerAdapter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/com/android/support/constraint/group-index.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/com/android/support/group-index.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/maven.google/master-index.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/lint-cache/sdk-registry.xml/sdk-registry.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/generated/not_namespaced_r_class_sources/release/generateReleaseRFile/out/com/umeng/message/lib/R.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/generated/source/buildConfig/release/com/umeng/message/lib/BuildConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/aapt_friendly_merged_manifests/release/processReleaseManifest/aapt/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/aapt_friendly_merged_manifests/release/processReleaseManifest/aapt/output.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/annotation_processor_list/debug/javaPreCompileDebug/annotationProcessors.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/annotation_processor_list/release/javaPreCompileRelease/annotationProcessors.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/annotations_typedef_file/debug/extractDebugAnnotations/typedefs.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/annotations_typedef_file/release/extractReleaseAnnotations/typedefs.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/blame/res/release/single/layout.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/incremental/debug-mergeJniLibs/merge-state" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/incremental/mergeReleaseResources/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/incremental/mergeReleaseShaders/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/incremental/packageDebugAssets/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/incremental/packageReleaseAssets/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/incremental/packageReleaseResources/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/incremental/release-mergeJavaRes/merge-state" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/incremental/release-mergeJniLibs/merge-state" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/intermediate-jars/debug/jni/armeabi/libcocklogic-1.1.3.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/intermediate-jars/debug/jni/armeabi/libtnet-3.1.11.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/intermediate-jars/debug/jni/x86/libcocklogic-1.1.3.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/intermediate-jars/debug/jni/x86/libtnet-3.1.11.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/intermediate-jars/release/jni/armeabi/libcocklogic-1.1.3.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/intermediate-jars/release/jni/armeabi/libtnet-3.1.11.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/intermediate-jars/release/jni/x86/libcocklogic-1.1.3.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/intermediate-jars/release/jni/x86/libtnet-3.1.11.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/jniLibs/debug/armeabi/libcocklogic-1.1.3.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/jniLibs/debug/armeabi/libtnet-3.1.11.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/jniLibs/debug/x86/libcocklogic-1.1.3.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/jniLibs/debug/x86/libtnet-3.1.11.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/jniLibs/release/armeabi/libcocklogic-1.1.3.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/jniLibs/release/armeabi/libtnet-3.1.11.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/jniLibs/release/x86/libcocklogic-1.1.3.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/jniLibs/release/x86/libtnet-3.1.11.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/library_and_local_jars_jni/debug/armeabi/libcocklogic-1.1.3.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/library_and_local_jars_jni/debug/armeabi/libtnet-3.1.11.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/library_and_local_jars_jni/debug/x86/libcocklogic-1.1.3.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/library_and_local_jars_jni/debug/x86/libtnet-3.1.11.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/library_and_local_jars_jni/release/armeabi/libcocklogic-1.1.3.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/library_and_local_jars_jni/release/armeabi/libtnet-3.1.11.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/library_and_local_jars_jni/release/x86/libcocklogic-1.1.3.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/library_and_local_jars_jni/release/x86/libtnet-3.1.11.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/library_manifest/release/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/merged_manifests/release/output.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/packaged_res/release/layout/upush_bar_image_notification.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/packaged_res/release/layout/upush_notification.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/res/compiled/release/layout_upush_bar_image_notification.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/res/compiled/release/layout_upush_notification.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/res/merged/release/layout/upush_bar_image_notification.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/res/merged/release/layout/upush_notification.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/res/symbol-table-with-package/release/package-aware-r.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/symbols/release/R.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/transforms/mergeJavaRes/release/__content__.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/transforms/mergeJniLibs/debug/0/lib/armeabi/libcocklogic-1.1.3.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/transforms/mergeJniLibs/debug/0/lib/armeabi/libtnet-3.1.11.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/transforms/mergeJniLibs/debug/0/lib/x86/libcocklogic-1.1.3.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/transforms/mergeJniLibs/debug/0/lib/x86/libtnet-3.1.11.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/transforms/mergeJniLibs/release/0/lib/armeabi/libcocklogic-1.1.3.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/transforms/mergeJniLibs/release/0/lib/armeabi/libtnet-3.1.11.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/transforms/mergeJniLibs/release/0/lib/x86/libcocklogic-1.1.3.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/transforms/mergeJniLibs/release/0/lib/x86/libtnet-3.1.11.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/intermediates/transforms/mergeJniLibs/release/__content__.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/outputs/aar/push-debug.aar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/outputs/aar/push-release.aar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/push/build/outputs/logs/manifest-merger-release-report.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.9/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.9/javaCompile/classAnalysis.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.9/javaCompile/jarAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.9/javaCompile/jarAnalysis.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.9/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.9/javaCompile/javaCompile.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.9/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.9/javaCompile/taskHistory.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.9/javaCompile/taskJars.bin" afterPath="$PROJECT_DIR$/.gradle/4.9/javaCompile/taskJars.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/push/build/intermediates/res/merged/androidTest/debug/layout_upush_bar_image_notification.xml.flat" afterPath="$PROJECT_DIR$/push/build/intermediates/res/merged/androidTest/debug/layout_upush_bar_image_notification.xml.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/push/build/intermediates/res/merged/androidTest/debug/layout_upush_notification.xml.flat" afterPath="$PROJECT_DIR$/push/build/intermediates/res/merged/androidTest/debug/layout_upush_notification.xml.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/ViewPagerCardTransformer_v1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/ViewPagerCardTransformer_v1_0.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/analytics_7_5_4.xml" afterPath="$PROJECT_DIR$/.idea/libraries/analytics_7_5_4.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_25_3_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_25_3_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_25_3_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_25_3_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/cardview_v7_25_3_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/cardview_v7_25_3_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/common_1_5_4.xml" afterPath="$PROJECT_DIR$/.idea/libraries/common_1_5_4.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/constraint_layout_1_0_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/constraint_layout_1_0_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/constraint_layout_solver_1_0_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/constraint_layout_solver_1_0_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/espresso_core_2_2_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/espresso_core_2_2_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/espresso_idling_resource_2_2_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/espresso_idling_resource_2_2_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/exposed_instrumentation_api_publish_0_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/exposed_instrumentation_api_publish_0_5.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/hamcrest_integration_1_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/hamcrest_integration_1_3.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/hamcrest_library_1_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/hamcrest_library_1_3.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/javawriter_2_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/javawriter_2_1_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/javax_annotation_api_1_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/javax_annotation_api_1_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/javax_inject_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/javax_inject_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/jsr305_2_0_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/jsr305_2_0_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/rules_0_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/rules_0_5.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/runner_0_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/runner_0_5.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_annotations_25_3_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_annotations_25_3_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_compat_25_3_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_compat_25_3_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_core_ui_25_3_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_core_ui_25_3_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_core_utils_25_3_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_core_utils_25_3_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_fragment_25_3_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_fragment_25_3_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_media_compat_25_3_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_media_compat_25_3_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_25_3_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_25_3_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_25_3_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_25_3_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/activity/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/activity/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/push/build/generated/not_namespaced_r_class_sources/debugAndroidTest/processDebugAndroidTestResources/r/com/umeng/message/lib/test/R.java" afterPath="$PROJECT_DIR$/push/build/generated/not_namespaced_r_class_sources/debugAndroidTest/processDebugAndroidTestResources/r/com/umeng/message/lib/test/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/push/build/generated/source/buildConfig/androidTest/debug/com/umeng/message/lib/test/BuildConfig.java" afterPath="$PROJECT_DIR$/push/build/generated/source/buildConfig/androidTest/debug/com/umeng/message/lib/test/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/push/build/generated/source/buildConfig/debug/com/umeng/message/lib/BuildConfig.java" afterPath="$PROJECT_DIR$/push/build/generated/source/buildConfig/debug/com/umeng/message/lib/BuildConfig.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/push/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/AndroidManifest.xml" afterPath="$PROJECT_DIR$/push/build/intermediates/aapt_friendly_merged_manifests/debug/processDebugManifest/aapt/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/push/build/intermediates/blame/res/androidTest/debug/single/debug.json" afterPath="$PROJECT_DIR$/push/build/intermediates/blame/res/androidTest/debug/single/debug.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/push/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/push/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/push/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" afterPath="$PROJECT_DIR$/push/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/push/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/push/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/push/build/intermediates/incremental/packageDebugResources/merger.xml" afterPath="$PROJECT_DIR$/push/build/intermediates/incremental/packageDebugResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/push/build/intermediates/library_manifest/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/push/build/intermediates/library_manifest/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/push/build/intermediates/merged_manifests/debugAndroidTest/AndroidManifest.xml" afterPath="$PROJECT_DIR$/push/build/intermediates/merged_manifests/debugAndroidTest/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/push/build/intermediates/res/symbol-table-with-package/androidTest/debug/package-aware-r.txt" afterPath="$PROJECT_DIR$/push/build/intermediates/res/symbol-table-with-package/androidTest/debug/package-aware-r.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/push/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" afterPath="$PROJECT_DIR$/push/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/push/build/intermediates/symbols/androidTest/debug/R.txt" afterPath="$PROJECT_DIR$/push/build/intermediates/symbols/androidTest/debug/R.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/push/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/push/build/intermediates/symbols/debug/R.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/push/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/push/build/outputs/logs/manifest-merger-debug-report.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/activity/SumActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/activity/SumActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/adapter/SumListAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/adapter/SumListAdapter.java" />
     </list>
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -193,11 +46,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SumActivity.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SumActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/activity/SumActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="35" column="57" lean-forward="false" selection-start-line="35" selection-start-column="57" selection-end-line="35" selection-end-column="57" />
+            <state relative-caret-position="304">
+              <caret line="74" column="31" lean-forward="true" selection-start-line="74" selection-start-column="31" selection-end-line="74" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -240,8 +93,8 @@
       <file leaf-file-name="SumListAdapter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/adapter/SumListAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+            <state relative-caret-position="513">
+              <caret line="27" column="47" lean-forward="false" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#490#491#0" expanded="true" />
@@ -296,11 +149,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/activity/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="511">
-              <caret line="82" column="25" lean-forward="false" selection-start-line="82" selection-start-column="25" selection-end-line="82" selection-end-column="25" />
+            <state relative-caret-position="1233">
+              <caret line="90" column="50" lean-forward="false" selection-start-line="90" selection-start-column="50" selection-end-line="90" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -314,7 +167,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
+            <state relative-caret-position="551">
               <caret line="29" column="43" lean-forward="false" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
               <folding>
                 <element signature="e#966#984#0" expanded="true" />
@@ -3262,11 +3115,11 @@
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/item_sum.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/entity/SumEntity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/adapter/SumListAdapter.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_sum.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/base/BaseActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/activity/SumActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/activity/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/adapter/SumListAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/activity/SumActivity.java" />
       </list>
     </option>
   </component>
@@ -4406,31 +4259,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/adapter/SumListAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#490#491#0" expanded="true" />
-            <element signature="e#535#536#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_sum.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="29" column="43" lean-forward="false" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
-          <folding>
-            <element signature="e#966#984#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/base/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="741">
@@ -4449,20 +4277,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/activity/SumActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/activity/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="35" column="57" lean-forward="false" selection-start-line="35" selection-start-column="57" selection-end-line="35" selection-end-column="57" />
+        <state relative-caret-position="1233">
+          <caret line="90" column="50" lean-forward="false" selection-start-line="90" selection-start-column="50" selection-end-line="90" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/activity/MainActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/adapter/SumListAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="511">
-          <caret line="82" column="25" lean-forward="false" selection-start-line="82" selection-start-column="25" selection-end-line="82" selection-end-column="25" />
+        <state relative-caret-position="513">
+          <caret line="27" column="47" lean-forward="false" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_sum.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="43" lean-forward="false" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+          <folding>
+            <element signature="e#966#984#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/activity/SumActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="74" column="31" lean-forward="true" selection-start-line="74" selection-start-column="31" selection-end-line="74" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

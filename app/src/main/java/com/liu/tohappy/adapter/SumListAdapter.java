@@ -25,6 +25,6 @@ public class SumListAdapter extends BaseItemDraggableAdapter<String, BaseViewHol
 
     @Override
     protected void convert(BaseViewHolder helper, String item) {
-//        helper.setText(R.id.tv_content, item);
+        helper.setText(R.id.tv_content, "123456");
     }
 }

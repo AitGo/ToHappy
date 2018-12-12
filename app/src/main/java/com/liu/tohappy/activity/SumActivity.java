@@ -34,66 +34,66 @@ public class SumActivity extends Activity implements View.OnClickListener {
     private RecyclerView rv_sums;
     private ImageView iv_back;
     private List<SumEntity> mSumList = new ArrayList<>();
-//    private SumListAdapter mAdapter;
-//    OnItemDragListener onItemDragListener = new OnItemDragListener() {
-//        @Override
-//        public void onItemDragStart(RecyclerView.ViewHolder viewHolder, int pos){}
-//        @Override
-//        public void onItemDragMoving(RecyclerView.ViewHolder source, int from, RecyclerView.ViewHolder target, int to) {}
-//        @Override
-//        public void onItemDragEnd(RecyclerView.ViewHolder viewHolder, int pos) {}
-//    };
-//
-//    OnItemSwipeListener onItemSwipeListener = new OnItemSwipeListener() {
-//        @Override
-//        public void onItemSwipeStart(RecyclerView.ViewHolder viewHolder, int pos) {}
-//        @Override
-//        public void clearView(RecyclerView.ViewHolder viewHolder, int pos) {}
-//        @Override
-//        public void onItemSwiped(RecyclerView.ViewHolder viewHolder, int pos) {}
-//
-//        @Override
-//        public void onItemSwipeMoving(Canvas canvas, RecyclerView.ViewHolder viewHolder, float dX, float dY, boolean isCurrentlyActive) {
-//
-//        }
-//    };
+    private SumListAdapter mAdapter;
+    OnItemDragListener onItemDragListener = new OnItemDragListener() {
+        @Override
+        public void onItemDragStart(RecyclerView.ViewHolder viewHolder, int pos){}
+        @Override
+        public void onItemDragMoving(RecyclerView.ViewHolder source, int from, RecyclerView.ViewHolder target, int to) {}
+        @Override
+        public void onItemDragEnd(RecyclerView.ViewHolder viewHolder, int pos) {}
+    };
+
+    OnItemSwipeListener onItemSwipeListener = new OnItemSwipeListener() {
+        @Override
+        public void onItemSwipeStart(RecyclerView.ViewHolder viewHolder, int pos) {}
+        @Override
+        public void clearView(RecyclerView.ViewHolder viewHolder, int pos) {}
+        @Override
+        public void onItemSwiped(RecyclerView.ViewHolder viewHolder, int pos) {}
+
+        @Override
+        public void onItemSwipeMoving(Canvas canvas, RecyclerView.ViewHolder viewHolder, float dX, float dY, boolean isCurrentlyActive) {
+
+        }
+    };
 
     @Override
-    public void onCreate(@Nullable Bundle savedInstanceState, @Nullable PersistableBundle persistentState) {
-        super.onCreate(savedInstanceState, persistentState);
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_sum);
         initView();
-//        initData();
+        initData();
     }
 
-//    private void initData() {
-//        SumEntity s1 = new SumEntity();
-//        s1.setNumber(1);
-//        s1.setContent("11111");
-//        SumEntity s2 = new SumEntity();
-//        s2.setNumber(2);
-//        s2.setContent("222222");
-//        mSumList.add(s1);
-//        mSumList.add(s2);
-//
-//        mAdapter = new SumListAdapter(mSumList);
-//
-//        ItemDragAndSwipeCallback itemDragAndSwipeCallback = new ItemDragAndSwipeCallback(mAdapter);
-//        ItemTouchHelper itemTouchHelper = new ItemTouchHelper(itemDragAndSwipeCallback);
-//        itemTouchHelper.attachToRecyclerView(rv_sums);
-//
-//        // 开启拖拽
-//        mAdapter.enableDragItem(itemTouchHelper, R.id.tv_content, true);
-//        mAdapter.setOnItemDragListener(onItemDragListener);
-//
-//        // 开启滑动删除
-//        mAdapter.enableSwipeItem();
-//        mAdapter.setOnItemSwipeListener(onItemSwipeListener);
-//
+    private void initData() {
+        SumEntity s1 = new SumEntity();
+        s1.setNumber(1);
+        s1.setContent("11111");
+        SumEntity s2 = new SumEntity();
+        s2.setNumber(2);
+        s2.setContent("222222");
+        mSumList.add(s1);
+        mSumList.add(s2);
+
+        mAdapter = new SumListAdapter(mSumList);
+
+        ItemDragAndSwipeCallback itemDragAndSwipeCallback = new ItemDragAndSwipeCallback(mAdapter);
+        ItemTouchHelper itemTouchHelper = new ItemTouchHelper(itemDragAndSwipeCallback);
+        itemTouchHelper.attachToRecyclerView(rv_sums);
+
+        // 开启拖拽
+        mAdapter.enableDragItem(itemTouchHelper, R.id.tv_content, true);
+        mAdapter.setOnItemDragListener(onItemDragListener);
+
+        // 开启滑动删除
+        mAdapter.enableSwipeItem();
+        mAdapter.setOnItemSwipeListener(onItemSwipeListener);
+
 //        rv_sums.setAdapter(mAdapter);
-//
-//
-//    }
+
+
+    }
 
     private void initView() {
         iv_back = (ImageView) findViewById(R.id.iv_back);
