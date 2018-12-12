@@ -2,7 +2,7 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
               android:orientation="vertical"
               android:layout_width="match_parent"
-              android:layout_height="wrap_content">
+              android:layout_height="50dp">
 
     <TextView
         android:id="@+id/tv_num"
@@ -24,4 +24,9 @@
         android:text="aaa"
         android:textColor="#111111"
         android:textSize="16sp"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/bg_gray"/>
 </RelativeLayout>
