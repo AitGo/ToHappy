@@ -68,12 +68,7 @@ public class SumActivity extends Activity implements View.OnClickListener {
     }
 
     private void initData() {
-        SumEntity s1 = new SumEntity();
-        s1.setNumber(1);
-        s1.setContent("11111");
-        SumEntity s2 = new SumEntity();
-        s2.setNumber(2);
-        s2.setContent("222222");
+
         mSumList.add("11111");
         mSumList.add("22222");
 

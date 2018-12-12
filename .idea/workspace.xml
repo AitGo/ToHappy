@@ -11,18 +11,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6491cb3-27f6-4e2e-afe1-7762cca86ac4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/greendao_3_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/greendao_api_3_2_2.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.9/fileHashes/resourceHashesCache.bin" afterPath="$PROJECT_DIR$/.gradle/4.9/fileHashes/resourceHashesCache.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.9/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.9/javaCompile/classAnalysis.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.9/javaCompile/jarAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.9/javaCompile/jarAnalysis.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.9/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.9/javaCompile/javaCompile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.9/javaCompile/processorPath.bin" afterPath="$PROJECT_DIR$/.gradle/4.9/javaCompile/processorPath.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.9/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.9/javaCompile/taskHistory.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.9/javaCompile/taskJars.bin" afterPath="$PROJECT_DIR$/.gradle/4.9/javaCompile/taskJars.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/BaseRecyclerViewAdapterHelper_2_9_30.xml" afterPath="$PROJECT_DIR$/.idea/libraries/BaseRecyclerViewAdapterHelper_2_9_30.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/ViewPagerCardTransformer_v1_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/ViewPagerCardTransformer_v1_0.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_25_3_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_25_3_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_25_3_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_25_3_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/cardview_v7_25_3_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/cardview_v7_25_3_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/constraint_layout_1_0_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/constraint_layout_1_0_2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/espresso_core_2_2_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/espresso_core_2_2_2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/espresso_idling_resource_2_2_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/espresso_idling_resource_2_2_2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/exposed_instrumentation_api_publish_0_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/exposed_instrumentation_api_publish_0_5.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_25_3_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_25_3_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/rules_0_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/rules_0_5.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/runner_0_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/runner_0_5.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_compat_25_3_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_compat_25_3_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_core_ui_25_3_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_core_ui_25_3_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_core_utils_25_3_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_core_utils_25_3_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_fragment_25_3_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_fragment_25_3_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_media_compat_25_3_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_media_compat_25_3_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_25_3_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_25_3_1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_25_3_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_25_3_1.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/activity/SumActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/activity/SumActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/adapter/SumListAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/adapter/SumListAdapter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_sum.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_sum.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/base/App.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/base/App.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/entity/SumEntity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/entity/SumEntity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/push/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/push/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/push/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/push/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/push/push.iml" afterPath="$PROJECT_DIR$/push/push.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,11 +79,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-manifest">
+            <state />
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="SumActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/activity/SumActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="498">
-              <caret line="77" column="27" lean-forward="false" selection-start-line="77" selection-start-column="27" selection-end-line="77" selection-end-column="27" />
+            <state relative-caret-position="440">
+              <caret line="84" column="17" lean-forward="true" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -59,43 +104,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="App.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="App.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/base/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="741">
-              <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BaseActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/base/BaseActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="38" column="20" lean-forward="false" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+            <state relative-caret-position="351">
+              <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding>
-                <element signature="e#1000#1043#0" expanded="true" />
+                <element signature="e#1250#1251#0" expanded="true" />
+                <element signature="e#1283#1284#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BaseItemDraggableAdapter.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.github.CymChad/BaseRecyclerViewAdapterHelper/2.9.30/b1cdf1d9751eb1e35fd8b05282af9b25c729725d/BaseRecyclerViewAdapterHelper-2.9.30-sources.jar!/com/chad/library/adapter/base/BaseItemDraggableAdapter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="144" column="81" lean-forward="false" selection-start-line="144" selection-start-column="81" selection-end-line="144" selection-end-column="81" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SumListAdapter.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SumListAdapter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/adapter/SumListAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="532">
-              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+              <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#490#491#0" expanded="true" />
@@ -105,20 +131,34 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="24" column="41" lean-forward="false" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="SumEntity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/entity/SumEntity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+            <state relative-caret-position="275">
+              <caret line="22" column="23" lean-forward="false" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
               <folding>
-                <element signature="e#307#308#0" expanded="true" />
-                <element signature="e#336#337#0" expanded="true" />
-                <element signature="e#377#378#0" expanded="true" />
-                <element signature="e#413#414#0" expanded="true" />
-                <element signature="e#447#448#0" expanded="true" />
-                <element signature="e#477#478#0" expanded="true" />
-                <element signature="e#523#524#0" expanded="true" />
-                <element signature="e#561#562#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#1185#1186#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -132,19 +172,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
               <caret line="10" column="40" lean-forward="false" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fragment_a.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_a.xml">
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="35" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="23" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -671,6 +698,11 @@
                 <option name="name" value="transformResourcesWithMergeJavaResForDebugUnitTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Finds entity source files for greendao" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="greendaoPrepare" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="bundleDebugResources" />
               </ExternalTaskPojo>
@@ -1042,6 +1074,11 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="transformDexArchiveWithExternalLibsDexMergerForDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates source files for greendao" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="greendao" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -1581,6 +1618,11 @@
                 <option name="name" value="transformResourcesWithMergeJavaResForDebugUnitTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Finds entity source files for greendao" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="greendaoPrepare" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="bundleDebugResources" />
               </ExternalTaskPojo>
@@ -1896,6 +1938,11 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="transformDexArchiveWithExternalLibsDexMergerForDebugAndroidTest" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates source files for greendao" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="greendao" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
@@ -2809,6 +2856,7 @@
                         <option name="entries">
                           <list>
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/3.3.0-alpha06/5c1d3d6246fef8f8969e1c7875b09652fe70d5de/gradle-3.3.0-alpha06.jar" />
+                            <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao-gradle-plugin/3.2.2/db4da9243ef0d65ffb94cd48445da259e696d90b/greendao-gradle-plugin-3.2.2.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/3.3.0-alpha06/25349756cbb60f5623675cd8eb41701d6cf7752a/builder-3.3.0-alpha06.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/shared/26.3.0-alpha06/42dfe9c1d986b21f956d1f58221004f7139f7c63/shared-26.3.0-alpha06.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/crash/26.3.0-alpha06/ddfa70b230aae76d1686ac9fc3878863a540e7fd/crash-26.3.0-alpha06.jar" />
@@ -2826,6 +2874,7 @@
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.android.tools.build/bundletool/0.5.0/ffd6077d13937213b860c0022174ece60000eabc/bundletool-0.5.0.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.android.tools.build.jetifier/jetifier-core/1.0.0-alpha09/c526841f915c5e890efc473674e54927b50acc1a/jetifier-core-1.0.0-alpha09.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.android.tools.build.jetifier/jetifier-processor/1.0.0-alpha09/54a82e28c926ad46216b296a7008292cfc0bb76f/jetifier-processor-1.0.0-alpha09.jar" />
+                            <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao-code-modifier/3.2.2/e8c030500864d74dc46a3b4f100c05e3382b9b02/greendao-code-modifier-3.2.2.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-model/3.3.0-alpha06/bb2afc7fe9c1b69cc1281199babc4f238e3a4996/builder-model-3.3.0-alpha06.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-test-api/3.3.0-alpha06/63739e7bc074fe9da219da01e620c19ca3beb03d/builder-test-api-3.3.0-alpha06.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.android.tools/sdklib/26.3.0-alpha06/5bd5e499bb34653bbff5a2cb2264b826fd8bed92/sdklib-26.3.0-alpha06.jar" />
@@ -2864,6 +2913,10 @@
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java-util/3.4.0/96aba8ab71c16018c6adf66771ce15c6491bc0fe/protobuf-java-util-3.4.0.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/org.jdom/jdom2/2.0.6/6f14738ec2e9dd0011e343717fa624a10f8aab64/jdom2-2.0.6.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.41/7e34f009642702250bccd9e5255866f408962a05/kotlin-stdlib-1.2.41.jar" />
+                            <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao-api/3.2.2/e9bbf7a184b0b4914a10d8179c993cc9aa9b1b33/greendao-api-3.2.2.jar" />
+                            <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao-generator/3.2.2/c1d222f0f518f6d32150c566ef378e0dcba8de1e/greendao-generator-3.2.2.jar" />
+                            <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/org.greenrobot/greenrobot-jdt/3.12.2/56bbe5ebf141455ca196fa6fa668930daa6e6dc/greenrobot-jdt-3.12.2.jar" />
+                            <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/org.greenrobot/essentials/3.0.0-RC1/dfc6cd070e196e63df53c90abd2c3e1e02ee40e9/essentials-3.0.0-RC1.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.android.tools.layoutlib/layoutlib-api/26.3.0-alpha06/69d7900d0a9defc6334eaf4b62d05c33ba996ddf/layoutlib-api-26.3.0-alpha06.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.android.tools/dvlib/26.3.0-alpha06/1ff9fa3b34392113c03c8bf06923cf203d4c1cb/dvlib-26.3.0-alpha06.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.android.tools/repository/26.3.0-alpha06/a5226c82157170c33389a2f8d5e0abd3c700650/repository-26.3.0-alpha06.jar" />
@@ -2871,6 +2924,7 @@
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/kxml/kxml2/2.3.0/kxml2-2.3.0.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar" />
+                            <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/org.freemarker/freemarker/2.3.23/cd143cd8c02a9f838e3cb75a6dfe133750437f6d/freemarker-2.3.23.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.sun.activation/javax.activation/1.2.0/bf744c1e2776ed1de3c55c8dac1057ec331ef744/javax.activation-1.2.0.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/org.glassfish.jaxb/jaxb-runtime/2.2.11/65510afc78679e347b0d774617a97fedac94f8/jaxb-runtime-2.2.11.jar" />
@@ -2880,7 +2934,7 @@
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.sun.xml.fastinfoset/FastInfoset/1.2.13/98f56b9354e27bd2941cc5d461344e240ae51ae/FastInfoset-1.2.13.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.9/9ce04e34240f674bc72680f8b843b1457383161a/commons-codec-1.9.jar" />
-                            <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.1/976d8d30bebc251db406f2bdb3eb01962b5685b3/j2objc-annotations-1.1.jar" />
+                            <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.1/ed28ded51a8b1c6b112568def5f4b455e6809019/j2objc-annotations-1.1.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.14/775b7e22fb10026eed3f86e8dc556dfafe35f2d5/animal-sniffer-annotations-1.14.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre7/1.2.41/9e7a6f582de73d9cdc6c56ef4e23604a0ee55768/kotlin-stdlib-jre7-1.2.41.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/javax.xml.bind/jaxb-api/2.2.12-b140109.1041/7ed0e0d01198614194d56dfb03d9d95aa311824c/jaxb-api-2.2.12-b140109.1041.jar" />
@@ -2898,6 +2952,7 @@
                         <option name="entries">
                           <list>
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/3.3.0-alpha06/5c1d3d6246fef8f8969e1c7875b09652fe70d5de/gradle-3.3.0-alpha06.jar" />
+                            <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao-gradle-plugin/3.2.2/db4da9243ef0d65ffb94cd48445da259e696d90b/greendao-gradle-plugin-3.2.2.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/3.3.0-alpha06/25349756cbb60f5623675cd8eb41701d6cf7752a/builder-3.3.0-alpha06.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/shared/26.3.0-alpha06/42dfe9c1d986b21f956d1f58221004f7139f7c63/shared-26.3.0-alpha06.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/crash/26.3.0-alpha06/ddfa70b230aae76d1686ac9fc3878863a540e7fd/crash-26.3.0-alpha06.jar" />
@@ -2915,6 +2970,7 @@
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.android.tools.build/bundletool/0.5.0/ffd6077d13937213b860c0022174ece60000eabc/bundletool-0.5.0.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.android.tools.build.jetifier/jetifier-core/1.0.0-alpha09/c526841f915c5e890efc473674e54927b50acc1a/jetifier-core-1.0.0-alpha09.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.android.tools.build.jetifier/jetifier-processor/1.0.0-alpha09/54a82e28c926ad46216b296a7008292cfc0bb76f/jetifier-processor-1.0.0-alpha09.jar" />
+                            <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao-code-modifier/3.2.2/e8c030500864d74dc46a3b4f100c05e3382b9b02/greendao-code-modifier-3.2.2.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-model/3.3.0-alpha06/bb2afc7fe9c1b69cc1281199babc4f238e3a4996/builder-model-3.3.0-alpha06.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-test-api/3.3.0-alpha06/63739e7bc074fe9da219da01e620c19ca3beb03d/builder-test-api-3.3.0-alpha06.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.android.tools/sdklib/26.3.0-alpha06/5bd5e499bb34653bbff5a2cb2264b826fd8bed92/sdklib-26.3.0-alpha06.jar" />
@@ -2953,6 +3009,10 @@
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java-util/3.4.0/96aba8ab71c16018c6adf66771ce15c6491bc0fe/protobuf-java-util-3.4.0.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/org.jdom/jdom2/2.0.6/6f14738ec2e9dd0011e343717fa624a10f8aab64/jdom2-2.0.6.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.41/7e34f009642702250bccd9e5255866f408962a05/kotlin-stdlib-1.2.41.jar" />
+                            <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao-api/3.2.2/e9bbf7a184b0b4914a10d8179c993cc9aa9b1b33/greendao-api-3.2.2.jar" />
+                            <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao-generator/3.2.2/c1d222f0f518f6d32150c566ef378e0dcba8de1e/greendao-generator-3.2.2.jar" />
+                            <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/org.greenrobot/greenrobot-jdt/3.12.2/56bbe5ebf141455ca196fa6fa668930daa6e6dc/greenrobot-jdt-3.12.2.jar" />
+                            <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/org.greenrobot/essentials/3.0.0-RC1/dfc6cd070e196e63df53c90abd2c3e1e02ee40e9/essentials-3.0.0-RC1.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.android.tools.layoutlib/layoutlib-api/26.3.0-alpha06/69d7900d0a9defc6334eaf4b62d05c33ba996ddf/layoutlib-api-26.3.0-alpha06.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.android.tools/dvlib/26.3.0-alpha06/1ff9fa3b34392113c03c8bf06923cf203d4c1cb/dvlib-26.3.0-alpha06.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.android.tools/repository/26.3.0-alpha06/a5226c82157170c33389a2f8d5e0abd3c700650/repository-26.3.0-alpha06.jar" />
@@ -2960,6 +3020,7 @@
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/kxml/kxml2/2.3.0/kxml2-2.3.0.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar" />
+                            <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/org.freemarker/freemarker/2.3.23/cd143cd8c02a9f838e3cb75a6dfe133750437f6d/freemarker-2.3.23.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.sun.activation/javax.activation/1.2.0/bf744c1e2776ed1de3c55c8dac1057ec331ef744/javax.activation-1.2.0.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/org.glassfish.jaxb/jaxb-runtime/2.2.11/65510afc78679e347b0d774617a97fedac94f8/jaxb-runtime-2.2.11.jar" />
@@ -2969,7 +3030,7 @@
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.sun.xml.fastinfoset/FastInfoset/1.2.13/98f56b9354e27bd2941cc5d461344e240ae51ae/FastInfoset-1.2.13.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.9/9ce04e34240f674bc72680f8b843b1457383161a/commons-codec-1.9.jar" />
-                            <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.1/976d8d30bebc251db406f2bdb3eb01962b5685b3/j2objc-annotations-1.1.jar" />
+                            <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.1/ed28ded51a8b1c6b112568def5f4b455e6809019/j2objc-annotations-1.1.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.14/775b7e22fb10026eed3f86e8dc556dfafe35f2d5/animal-sniffer-annotations-1.14.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre7/1.2.41/9e7a6f582de73d9cdc6c56ef4e23604a0ee55768/kotlin-stdlib-jre7-1.2.41.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/javax.xml.bind/jaxb-api/2.2.12-b140109.1041/7ed0e0d01198614194d56dfb03d9d95aa311824c/jaxb-api-2.2.12-b140109.1041.jar" />
@@ -2987,6 +3048,7 @@
                         <option name="entries">
                           <list>
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle/3.3.0-alpha06/5c1d3d6246fef8f8969e1c7875b09652fe70d5de/gradle-3.3.0-alpha06.jar" />
+                            <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao-gradle-plugin/3.2.2/db4da9243ef0d65ffb94cd48445da259e696d90b/greendao-gradle-plugin-3.2.2.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder/3.3.0-alpha06/25349756cbb60f5623675cd8eb41701d6cf7752a/builder-3.3.0-alpha06.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/shared/26.3.0-alpha06/42dfe9c1d986b21f956d1f58221004f7139f7c63/shared-26.3.0-alpha06.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.android.tools.analytics-library/crash/26.3.0-alpha06/ddfa70b230aae76d1686ac9fc3878863a540e7fd/crash-26.3.0-alpha06.jar" />
@@ -3004,6 +3066,7 @@
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.android.tools.build/bundletool/0.5.0/ffd6077d13937213b860c0022174ece60000eabc/bundletool-0.5.0.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.android.tools.build.jetifier/jetifier-core/1.0.0-alpha09/c526841f915c5e890efc473674e54927b50acc1a/jetifier-core-1.0.0-alpha09.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.android.tools.build.jetifier/jetifier-processor/1.0.0-alpha09/54a82e28c926ad46216b296a7008292cfc0bb76f/jetifier-processor-1.0.0-alpha09.jar" />
+                            <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao-code-modifier/3.2.2/e8c030500864d74dc46a3b4f100c05e3382b9b02/greendao-code-modifier-3.2.2.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-model/3.3.0-alpha06/bb2afc7fe9c1b69cc1281199babc4f238e3a4996/builder-model-3.3.0-alpha06.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-test-api/3.3.0-alpha06/63739e7bc074fe9da219da01e620c19ca3beb03d/builder-test-api-3.3.0-alpha06.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.android.tools/sdklib/26.3.0-alpha06/5bd5e499bb34653bbff5a2cb2264b826fd8bed92/sdklib-26.3.0-alpha06.jar" />
@@ -3042,6 +3105,10 @@
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java-util/3.4.0/96aba8ab71c16018c6adf66771ce15c6491bc0fe/protobuf-java-util-3.4.0.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/org.jdom/jdom2/2.0.6/6f14738ec2e9dd0011e343717fa624a10f8aab64/jdom2-2.0.6.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.41/7e34f009642702250bccd9e5255866f408962a05/kotlin-stdlib-1.2.41.jar" />
+                            <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao-api/3.2.2/e9bbf7a184b0b4914a10d8179c993cc9aa9b1b33/greendao-api-3.2.2.jar" />
+                            <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao-generator/3.2.2/c1d222f0f518f6d32150c566ef378e0dcba8de1e/greendao-generator-3.2.2.jar" />
+                            <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/org.greenrobot/greenrobot-jdt/3.12.2/56bbe5ebf141455ca196fa6fa668930daa6e6dc/greenrobot-jdt-3.12.2.jar" />
+                            <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/org.greenrobot/essentials/3.0.0-RC1/dfc6cd070e196e63df53c90abd2c3e1e02ee40e9/essentials-3.0.0-RC1.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.android.tools.layoutlib/layoutlib-api/26.3.0-alpha06/69d7900d0a9defc6334eaf4b62d05c33ba996ddf/layoutlib-api-26.3.0-alpha06.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.android.tools/dvlib/26.3.0-alpha06/1ff9fa3b34392113c03c8bf06923cf203d4c1cb/dvlib-26.3.0-alpha06.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.android.tools/repository/26.3.0-alpha06/a5226c82157170c33389a2f8d5e0abd3c700650/repository-26.3.0-alpha06.jar" />
@@ -3049,6 +3116,7 @@
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/kxml/kxml2/2.3.0/kxml2-2.3.0.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar" />
+                            <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/org.freemarker/freemarker/2.3.23/cd143cd8c02a9f838e3cb75a6dfe133750437f6d/freemarker-2.3.23.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.sun.activation/javax.activation/1.2.0/bf744c1e2776ed1de3c55c8dac1057ec331ef744/javax.activation-1.2.0.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/org.glassfish.jaxb/jaxb-runtime/2.2.11/65510afc78679e347b0d774617a97fedac94f8/jaxb-runtime-2.2.11.jar" />
@@ -3058,7 +3126,7 @@
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.sun.xml.fastinfoset/FastInfoset/1.2.13/98f56b9354e27bd2941cc5d461344e240ae51ae/FastInfoset-1.2.13.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.9/9ce04e34240f674bc72680f8b843b1457383161a/commons-codec-1.9.jar" />
-                            <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.1/976d8d30bebc251db406f2bdb3eb01962b5685b3/j2objc-annotations-1.1.jar" />
+                            <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/com.google.j2objc/j2objc-annotations/1.1/ed28ded51a8b1c6b112568def5f4b455e6809019/j2objc-annotations-1.1.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/org.codehaus.mojo/animal-sniffer-annotations/1.14/775b7e22fb10026eed3f86e8dc556dfafe35f2d5/animal-sniffer-annotations-1.14.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre7/1.2.41/9e7a6f582de73d9cdc6c56ef4e23604a0ee55768/kotlin-stdlib-jre7-1.2.41.jar" />
                             <option value="D:/Java/gradle/.gradle/caches/modules-2/files-2.1/javax.xml.bind/jaxb-api/2.2.12-b140109.1041/7ed0e0d01198614194d56dfb03d9d95aa311824c/jaxb-api-2.2.12-b140109.1041.jar" />
@@ -3094,7 +3162,6 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/base/BaseeActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/titlebar.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/base/App.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/page1.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/MyPagerAdapter.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/base/BaseFragment.java" />
@@ -3111,16 +3178,17 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/fragment/FragmentD.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/main_menu_layout.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/entity/SumEntity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_sum.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/base/BaseActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/activity/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/item_sum.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/activity/SumActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/adapter/SumListAdapter.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/entity/SumEntity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/activity/SumActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/base/App.java" />
       </list>
     </option>
   </component>
@@ -3326,6 +3394,40 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="layout" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ToHappy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ToHappy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tohappy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="greendao" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -3916,7 +4018,7 @@
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.271645" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22077923" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3116883" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -4144,28 +4246,12 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="545">
-          <caret line="35" column="1" lean-forward="false" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/fragment/FragmentA.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -4194,17 +4280,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="31" column="66" lean-forward="false" selection-start-line="31" selection-start-column="66" selection-end-line="31" selection-end-column="66" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_a.xml">
       <provider editor-type-id="android-designer2">
         <state />
@@ -4213,23 +4288,6 @@
         <state relative-caret-position="437">
           <caret line="23" column="35" lean-forward="false" selection-start-line="21" selection-start-column="12" selection-end-line="23" selection-end-column="35" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/entity/SumEntity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-          <folding>
-            <element signature="e#307#308#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-            <element signature="e#413#414#0" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
-            <element signature="e#523#524#0" expanded="true" />
-            <element signature="e#561#562#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -4245,14 +4303,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="245">
           <caret line="144" column="81" lean-forward="false" selection-start-line="144" selection-start-column="81" selection-end-line="144" selection-end-column="81" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/base/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -4301,24 +4351,73 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/adapter/SumListAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="41" lean-forward="false" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/entity/SumEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="22" column="23" lean-forward="false" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1185#1186#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/activity/SumActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="77" column="27" lean-forward="false" selection-start-line="77" selection-start-column="27" selection-end-line="77" selection-end-column="27" />
+        <state relative-caret-position="440">
+          <caret line="84" column="17" lean-forward="true" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/adapter/SumListAdapter.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        <state relative-caret-position="266">
+          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/liu/tohappy/base/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#490#491#0" expanded="true" />
-            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#1250#1251#0" expanded="true" />
+            <element signature="e#1283#1284#0" expanded="true" />
           </folding>
         </state>
       </provider>

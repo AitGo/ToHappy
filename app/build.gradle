@@ -1,4 +1,5 @@
 apply plugin: 'com.android.application'
+apply plugin: 'org.greenrobot.greendao'
 
 android {
     compileSdkVersion 25
@@ -7,8 +8,8 @@ android {
         applicationId "com.liu.tohappy"
         minSdkVersion 19
         targetSdkVersion 23
-        versionCode 1
-        versionName "1.0"
+        versionCode 2
+        versionName "1.1"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
@@ -17,6 +18,14 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+}
+
+greendao{
+    schemaVersion 1 // 数据库版本号
+    daoPackage  'com.liu.tohappy.greendao'//greenDao 自动生成的代码保存的包名
+    targetGenDir   'src/main/java' //自动生成的代码存储的路径，默认是 build/generated/source/greendao.
+    generateTests false //true的时候自动生成测试单元
+//    targetGenDirTests: src/androidTest/java
 }
 
 dependencies {
@@ -33,4 +42,5 @@ dependencies {
     compile 'com.android.support:cardview-v7:25.3.1'
     compile 'com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.30'
     compile 'com.android.support:recyclerview-v7:25.3.1'
+    implementation 'org.greenrobot:greendao:3.2.2'
 }

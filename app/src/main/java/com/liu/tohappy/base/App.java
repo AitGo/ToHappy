@@ -2,8 +2,12 @@ package com.liu.tohappy.base;
 
 
 import android.app.Application;
+import android.database.sqlite.SQLiteDatabase;
 import android.os.Handler;
 import android.util.Log;
+
+import com.liu.tohappy.greendao.DaoMaster;
+import com.liu.tohappy.greendao.DaoSession;
 import com.umeng.commonsdk.UMConfigure;
 import java.lang.reflect.Field;
 
@@ -21,32 +25,28 @@ public class App extends Application {
     private static final String TAG = App.class.getName();
     public static final String UPDATE_STATUS_ACTION = "com.umeng.message.example.action.UPDATE_STATUS";
     private Handler handler;
+    private static DaoSession daoSession;
 
     @Override
     public void onCreate() {
         super.onCreate();
-        //设置LOG开关，默认为false
-        UMConfigure.setLogEnabled(true);
-        try {
-            Class<?> aClass = Class.forName("com.umeng.commonsdk.UMConfigure");
-            Field[] fs = aClass.getDeclaredFields();
-            for (Field f:fs){
-                Log.e(TAG,"ff="+f.getName()+"   "+f.getType().getName());
-            }
-        } catch (ClassNotFoundException e) {
-            e.printStackTrace();
-        }
-        //初始化组件化基础库, 统计SDK/推送SDK/分享SDK都必须调用此初始化接口
-//        UMConfigure.init(this, "5bc84955f1f5562fca0000bb", "Umeng", UMConfigure.DEVICE_TYPE_PHONE,
-//                "");
-        //PushSDK初始化(如使用推送SDK，必须调用此方法)
-//        initUpush();
+        //配置数据库
+        setupDatabase();
 
-/*
-注意：如果您已经在AndroidManifest.xml中配置过appkey和channel值，可以调用此版本初始化函数。
-*/
-        UMConfigure.init(this,UMConfigure.DEVICE_TYPE_PHONE , "");
     }
 
+    private void setupDatabase() {
+        //创建数据库shop.db
+        DaoMaster.DevOpenHelper helper = new DaoMaster.DevOpenHelper(this, "user_info.db", null);
+        //获取可写数据库
+        SQLiteDatabase db = helper.getWritableDatabase();
+        //获取数据库对象
+        DaoMaster daoMaster = new DaoMaster(db);
+        //获取dao对象管理者
+        daoSession = daoMaster.newSession();
+    }
 
+    public static DaoSession getDaoInstant() {
+        return daoSession;
+    }
 }
