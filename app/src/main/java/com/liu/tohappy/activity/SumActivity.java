@@ -5,6 +5,7 @@ import android.graphics.Canvas;
 import android.os.Bundle;
 import android.os.PersistableBundle;
 import android.support.annotation.Nullable;
+import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.helper.ItemTouchHelper;
 import android.view.View;
@@ -33,7 +34,7 @@ import java.util.List;
 public class SumActivity extends Activity implements View.OnClickListener {
     private RecyclerView rv_sums;
     private ImageView iv_back;
-    private List<SumEntity> mSumList = new ArrayList<>();
+    private List<String> mSumList = new ArrayList<>();
     private SumListAdapter mAdapter;
     OnItemDragListener onItemDragListener = new OnItemDragListener() {
         @Override
@@ -73,8 +74,8 @@ public class SumActivity extends Activity implements View.OnClickListener {
         SumEntity s2 = new SumEntity();
         s2.setNumber(2);
         s2.setContent("222222");
-        mSumList.add(s1);
-        mSumList.add(s2);
+        mSumList.add("11111");
+        mSumList.add("22222");
 
         mAdapter = new SumListAdapter(mSumList);
 
@@ -90,7 +91,8 @@ public class SumActivity extends Activity implements View.OnClickListener {
         mAdapter.enableSwipeItem();
         mAdapter.setOnItemSwipeListener(onItemSwipeListener);
 
-//        rv_sums.setAdapter(mAdapter);
+        rv_sums.setLayoutManager(new LinearLayoutManager(this));
+        rv_sums.setAdapter(mAdapter);
 
 
     }
