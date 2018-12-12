@@ -1,5 +1,6 @@
 package com.liu.tohappy.activity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentActivity;
@@ -9,6 +10,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.Gravity;
 import android.view.View;
 import android.view.WindowManager;
+import android.widget.Button;
 import android.widget.ImageView;
 
 import com.aohanyao.transformer.library.CardPageTransformer;
@@ -33,15 +35,18 @@ public class MainActivity extends FragmentActivity implements View.OnClickListen
     private FragmentD fragmentD;
     private ImageView menu;
     private DrawerLayout dl_menu;
+    private Button btn_sum;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
         setContentView(R.layout.activity_main);
         menu = (ImageView) findViewById(R.id.iv_menu);
         dl_menu = (DrawerLayout) findViewById(R.id.dl_menu);
+        btn_sum = (Button) findViewById(R.id.btn_sum);
+
         menu.setOnClickListener(this);
+        btn_sum.setOnClickListener(this);
 
         ViewPager vpMain = (ViewPager) findViewById(R.id.vpMain);
         vpMain.setOffscreenPageLimit(4);
@@ -79,6 +84,11 @@ public class MainActivity extends FragmentActivity implements View.OnClickListen
         switch (view.getId()) {
             case R.id.iv_menu:
                 dl_menu.openDrawer(Gravity.LEFT);
+                break;
+            case R.id.btn_sum:
+                Intent intent = new Intent(MainActivity.this,SumActivity.class);
+                startActivity(intent);
+                dl_menu.closeDrawer(Gravity.LEFT);
                 break;
         }
     }
