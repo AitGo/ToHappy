@@ -1,6 +1,7 @@
 package com.liu.tohappy.activity;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.graphics.Canvas;
 import android.os.Bundle;
 import android.os.PersistableBundle;
@@ -32,10 +33,13 @@ import java.util.List;
  */
 
 public class SumActivity extends Activity implements View.OnClickListener {
+
     private RecyclerView rv_sums;
     private ImageView iv_back;
+    private ImageView iv_add;
     private List<String> mSumList = new ArrayList<>();
     private SumListAdapter mAdapter;
+
     OnItemDragListener onItemDragListener = new OnItemDragListener() {
         @Override
         public void onItemDragStart(RecyclerView.ViewHolder viewHolder, int pos){}
@@ -94,8 +98,10 @@ public class SumActivity extends Activity implements View.OnClickListener {
 
     private void initView() {
         iv_back = (ImageView) findViewById(R.id.iv_back);
+        iv_add = (ImageView) findViewById(R.id.iv_add);
         rv_sums = (RecyclerView) findViewById(R.id.rv_sums);
 
+        iv_add.setOnClickListener(this);
         iv_back.setOnClickListener(this);
     }
 
@@ -104,6 +110,10 @@ public class SumActivity extends Activity implements View.OnClickListener {
         switch (v.getId()) {
             case R.id.iv_back:
                 finish();
+                break;
+            case R.id.iv_add:
+                Intent intent = new Intent(SumActivity.this,AddSumActivity.class);
+                startActivity(intent);
                 break;
         }
     }

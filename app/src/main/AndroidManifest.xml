@@ -29,7 +29,9 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".activity.SumActivity"></activity>
+        <activity android:name=".activity.SumActivity"/>
+        <activity android:name=".activity.AddSumActivity"
+                  android:theme="@style/Dialog"/>
     </application>
 
 </manifest>
