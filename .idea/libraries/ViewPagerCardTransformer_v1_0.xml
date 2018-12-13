@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="ViewPagerCardTransformer-v1.0">
     <CLASSES>
-      <root url="jar://D:/Java/gradle/.gradle/caches/transforms-1/files-1.1/ViewPagerCardTransformer-v1.0.aar/2e159d79fcfe17d8771046cce806685b/jars/classes.jar!/" />
-      <root url="file://D:/Java/gradle/.gradle/caches/transforms-1/files-1.1/ViewPagerCardTransformer-v1.0.aar/2e159d79fcfe17d8771046cce806685b/res" />
+      <root url="file://D:/Java/gradle/.gradle/caches/transforms-1/files-1.1/ViewPagerCardTransformer-v1.0.aar/4b40e5e1d38a1009301421120ad7a353/res" />
+      <root url="jar://D:/Java/gradle/.gradle/caches/transforms-1/files-1.1/ViewPagerCardTransformer-v1.0.aar/4b40e5e1d38a1009301421120ad7a353/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

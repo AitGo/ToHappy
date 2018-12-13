@@ -2,14 +2,12 @@ package com.liu.tohappy.base;
 
 
 import android.app.Application;
+import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.os.Handler;
-import android.util.Log;
 
 import com.liu.tohappy.greendao.DaoMaster;
 import com.liu.tohappy.greendao.DaoSession;
-import com.umeng.commonsdk.UMConfigure;
-import java.lang.reflect.Field;
 
 /**
  * @创建者 liuyang
@@ -24,8 +22,9 @@ public class App extends Application {
 
     private static final String TAG = App.class.getName();
     public static final String UPDATE_STATUS_ACTION = "com.umeng.message.example.action.UPDATE_STATUS";
-    private Handler handler;
+    private        Handler    handler;
     private static DaoSession daoSession;
+    private static Context    mContext;
 
     @Override
     public void onCreate() {
@@ -49,4 +48,12 @@ public class App extends Application {
     public static DaoSession getDaoInstant() {
         return daoSession;
     }
+
+    /**
+     * 获取全局上下文
+     */
+    public static Context getContext() {
+        return mContext;
+    }
+
 }

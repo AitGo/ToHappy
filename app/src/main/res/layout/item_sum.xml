@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
+<com.mcxtzhang.swipemenulib.SwipeMenuLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:clickable="true"
+    android:paddingBottom="1dp">
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
               android:orientation="vertical"
               android:layout_width="match_parent"
@@ -12,7 +18,8 @@
         android:layout_centerVertical="true"
         android:text="aaa"
         android:textColor="#111111"
-        android:textSize="19sp"/>
+        android:textSize="19sp"
+        android:visibility="gone"/>
 
     <TextView
         android:id="@+id/tv_content"
@@ -24,9 +31,19 @@
         android:text="aaa"
         android:textColor="#111111"
         android:textSize="16sp"/>
-    <View
+    <!--<View
         android:layout_width="match_parent"
         android:layout_height="1dp"
         android:layout_alignParentBottom="true"
-        android:background="@color/bg_gray"/>
+        android:background="@color/bg_gray"/>-->
 </RelativeLayout>
+    <!-- 以下都是侧滑菜单的内容依序排列 -->
+
+    <Button
+        android:id="@+id/btn_delete"
+        android:layout_width="60dp"
+        android:layout_height="match_parent"
+        android:background="@color/red_ff4a57"
+        android:text="删除"
+        android:textColor="@android:color/white"/>
+</com.mcxtzhang.swipemenulib.SwipeMenuLayout>

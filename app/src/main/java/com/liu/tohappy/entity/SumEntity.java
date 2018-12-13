@@ -21,14 +21,14 @@ import org.greenrobot.greendao.annotation.Generated;
         @Index(value = "id DESC",unique = true)
 })
 public class SumEntity {
-    @Id
-    private long id;
+    @Id(autoincrement = true)//设置自增长
+    private Long id;
     @Property(nameInDb = "content") @NotNull
     private String content;
 
 
-    @Generated(hash = 1796416392)
-    public SumEntity(long id, @NotNull String content) {
+    @Generated(hash = 661703270)
+    public SumEntity(Long id, @NotNull String content) {
         this.id = id;
         this.content = content;
     }
@@ -46,11 +46,11 @@ public class SumEntity {
         this.content = content;
     }
 
-    public long getId() {
-        return this.id;
+    public Long getId() {
+        return id;
     }
 
-    public void setId(long id) {
+    public void setId(Long id) {
         this.id = id;
     }
 }

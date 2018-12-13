@@ -24,7 +24,7 @@ public class SumEntityDao extends AbstractDao<SumEntity, Long> {
      * Can be used for QueryBuilder and for referencing column names.
      */
     public static class Properties {
-        public final static Property Id = new Property(0, long.class, "id", true, "_id");
+        public final static Property Id = new Property(0, Long.class, "id", true, "_id");
         public final static Property Content = new Property(1, String.class, "content", false, "content");
     }
 
@@ -41,7 +41,7 @@ public class SumEntityDao extends AbstractDao<SumEntity, Long> {
     public static void createTable(Database db, boolean ifNotExists) {
         String constraint = ifNotExists? "IF NOT EXISTS ": "";
         db.execSQL("CREATE TABLE " + constraint + "\"sum_info\" (" + //
-                "\"_id\" INTEGER PRIMARY KEY NOT NULL ," + // 0: id
+                "\"_id\" INTEGER PRIMARY KEY AUTOINCREMENT ," + // 0: id
                 "\"content\" TEXT NOT NULL );"); // 1: content
         // Add Indexes
         db.execSQL("CREATE UNIQUE INDEX " + constraint + "IDX_sum_info__id_DESC ON \"sum_info\"" +
@@ -57,26 +57,34 @@ public class SumEntityDao extends AbstractDao<SumEntity, Long> {
     @Override
     protected final void bindValues(DatabaseStatement stmt, SumEntity entity) {
         stmt.clearBindings();
-        stmt.bindLong(1, entity.getId());
+ 
+        Long id = entity.getId();
+        if (id != null) {
+            stmt.bindLong(1, id);
+        }
         stmt.bindString(2, entity.getContent());
     }
 
     @Override
     protected final void bindValues(SQLiteStatement stmt, SumEntity entity) {
         stmt.clearBindings();
-        stmt.bindLong(1, entity.getId());
+ 
+        Long id = entity.getId();
+        if (id != null) {
+            stmt.bindLong(1, id);
+        }
         stmt.bindString(2, entity.getContent());
     }
 
     @Override
     public Long readKey(Cursor cursor, int offset) {
-        return cursor.getLong(offset + 0);
+        return cursor.isNull(offset + 0) ? null : cursor.getLong(offset + 0);
     }    
 
     @Override
     public SumEntity readEntity(Cursor cursor, int offset) {
         SumEntity entity = new SumEntity( //
-            cursor.getLong(offset + 0), // id
+            cursor.isNull(offset + 0) ? null : cursor.getLong(offset + 0), // id
             cursor.getString(offset + 1) // content
         );
         return entity;
@@ -84,7 +92,7 @@ public class SumEntityDao extends AbstractDao<SumEntity, Long> {
      
     @Override
     public void readEntity(Cursor cursor, SumEntity entity, int offset) {
-        entity.setId(cursor.getLong(offset + 0));
+        entity.setId(cursor.isNull(offset + 0) ? null : cursor.getLong(offset + 0));
         entity.setContent(cursor.getString(offset + 1));
      }
     
@@ -105,7 +113,7 @@ public class SumEntityDao extends AbstractDao<SumEntity, Long> {
 
     @Override
     public boolean hasKey(SumEntity entity) {
-        throw new UnsupportedOperationException("Unsupported for entities with a non-null key");
+        return entity.getId() != null;
     }
 
     @Override
